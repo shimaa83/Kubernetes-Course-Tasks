@@ -1,4 +1,3 @@
-<img width="1888" height="807" alt="5" src="https://github.com/user-attachments/assets/8506ea3d-2fc8-41d9-90b5-34902b4f8cbf" />
 # Task 2: FastAPI + MySQL on Kubernetes
 
 ## Overview
